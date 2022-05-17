@@ -1,10 +1,16 @@
 # 21-Card-Game
 
-This is the card game of 21 between 2 players. 
+Link to project:
 
-The player that gets 21 wins.
+## How It's Made:
 
-If both players do not get 21 than the player with the highest total but not greater than 21 will win.
+## Tech used: <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-If both players get a total greater than 21 than the player with the total  cloaser to 21 will win.
+## Optimizations:
+
+## Lessons Learned:
+
+## Examples:
+
+Take a look at these couple examples that I have in my own portfolio:
 
