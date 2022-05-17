@@ -1,6 +1,4 @@
-# 21-Card-Game
-
-Link to project:
+# 21-Card-Game: <a href="https://21cardgame.netlify.app">Live Site</a></h1>
 
 ## How It's Made:
 
